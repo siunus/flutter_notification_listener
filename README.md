@@ -3,9 +3,6 @@
 # flutter_notification_listener
 
 [![Version](https://img.shields.io/pub/v/flutter_notification_listener.svg)](https://pub.dartlang.org/packages/flutter_notification_listener)
-[![pub points](https://badges.bar/flutter_notification_listener/pub%20points)](https://pub.dev/packages/flutter_notification_listener/score)
-[![popularity](https://badges.bar/flutter_notification_listener/popularity)](https://pub.dev/packages/flutter_notification_listener/score)
-[![likes](https://badges.bar/flutter_notification_listener/likes)](https://pub.dev/packages/flutter_notification_listener/score)
 [![License](https://img.shields.io/badge/license-AL2-blue.svg)](https://github.com/jiusanzhou/flutter_notification_listener/blob/master/LICENSE)
 
 Flutter plugin to listen for all incoming notifications for Android.
@@ -29,8 +26,15 @@ dependencies:
   flutter_notification_listener: <latest_version>
 ```
 
-The latest version is 
-[![Version](https://img.shields.io/pub/v/flutter_notification_listener.svg)](https://pub.dartlang.org/packages/flutter_notification_listener)
+
+Or from this repository directly
+```yaml
+dependencies:
+  flutter_notification_listener:
+    git:
+      url: https://github.com/siunus/flutter_notification_listener.git
+      ref: master
+```
 
 Then you should install it,
 - From the terminal: Run `flutter pub get`.
